@@ -78,7 +78,7 @@ Python 3.9+ · Pandas · NumPy · Scikit-learn · LightGBM · Matplotlib · Seab
 
 **Monsur Habib** — AML Data Analyst · Dhaka, Bangladesh
 
-🌐 [aitipseveryday.com](https://aitipseveryday.com) · 💼 [Fiverr](https://www.fiverr.com/mdmonsurhabib) · 📧 habibmonsur01@gmail.com
+🌐 [aitipseveryday.com](https://aitipseveryday.com) · 💼 [Fiverr](https://www.fiverr.com/mdmonsurhabib) · 📧 monsurhabib01@gmail.com
 
 ---
 
